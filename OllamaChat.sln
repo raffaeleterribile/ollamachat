@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "El
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OllamaServer", "OllamaServer\OllamaServer.pyproj", "{BC3BC702-69D4-4C7F-BE53-23D2D1261122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{00A45C22-7960-4E4A-9670-AD6402E0DDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A45C22-7960-4E4A-9670-AD6402E0DDE1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{00A45C22-7960-4E4A-9670-AD6402E0DDE1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BC3BC702-69D4-4C7F-BE53-23D2D1261122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3BC702-69D4-4C7F-BE53-23D2D1261122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
